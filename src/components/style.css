@@ -1,0 +1,19 @@
+.testimonial_R{
+  background-image:url("../photos/testimonial-3.png"), url("../photos/testimonial-4.png"),url("../photos/testimonial-2.png"),url("../photos/testimonial-1-1.png");
+  
+  background-repeat:  no-repeat, no-repeat, no-repeat, no-repeat;
+  background-size: 100px, 100px, 100px, 100px;
+  background-position: right 100px top 100px, right 180px top 260px, right 80px top 420px ,right 20px top 280px;
+  height: 500px;
+  width: 100%
+  
+}
+.testimonial_L{
+    background-image: url("../photos/testimonial-8.png"), url("../photos/testimonial-7.png"),url("../photos/testimonial-6.png"),url("../photos/testimonial-5.png");
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat ;
+    background-size: 100px, 100px, 100px, 100px ;
+    background-position:left 100px top 100px, left 180px top 260px, left 80px top 420px ,left  20px top 280px;
+    height: 500px;
+    width: 100%
+    
+  }
