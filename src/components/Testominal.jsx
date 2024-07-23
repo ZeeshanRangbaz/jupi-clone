@@ -18,9 +18,9 @@ const Testominal = () => {
               {/* This is the heading without div */}
               <div className="">
                 <h1 className=" font-bold text-3xl   leading-[130%] tracking-wider text-center">
-                    Peoples always loves
-                    <br />
-                    our products
+                  Peoples always loves
+                  <br />
+                  our products
                 </h1>
               </div>
             </div>
@@ -61,5 +61,5 @@ const Testominal = () => {
     </>
   );
 };
-
+// added comment
 export default Testominal;
